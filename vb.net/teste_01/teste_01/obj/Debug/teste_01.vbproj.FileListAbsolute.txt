@@ -1,0 +1,11 @@
+c:\users\tenataz\documents\visual studio 2015\Projects\teste_01\teste_01\bin\Debug\teste_01.exe.config
+c:\users\tenataz\documents\visual studio 2015\Projects\teste_01\teste_01\bin\Debug\teste_01.exe
+c:\users\tenataz\documents\visual studio 2015\Projects\teste_01\teste_01\bin\Debug\teste_01.pdb
+c:\users\tenataz\documents\visual studio 2015\Projects\teste_01\teste_01\bin\Debug\teste_01.xml
+c:\users\tenataz\documents\visual studio 2015\Projects\teste_01\teste_01\obj\Debug\teste_01.vbprojResolveAssemblyReference.cache
+c:\users\tenataz\documents\visual studio 2015\Projects\teste_01\teste_01\obj\Debug\teste_01.Form1.resources
+c:\users\tenataz\documents\visual studio 2015\Projects\teste_01\teste_01\obj\Debug\teste_01.Resources.resources
+c:\users\tenataz\documents\visual studio 2015\Projects\teste_01\teste_01\obj\Debug\teste_01.vbproj.GenerateResource.Cache
+c:\users\tenataz\documents\visual studio 2015\Projects\teste_01\teste_01\obj\Debug\teste_01.exe
+c:\users\tenataz\documents\visual studio 2015\Projects\teste_01\teste_01\obj\Debug\teste_01.xml
+c:\users\tenataz\documents\visual studio 2015\Projects\teste_01\teste_01\obj\Debug\teste_01.pdb
