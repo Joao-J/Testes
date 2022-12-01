@@ -11,14 +11,14 @@ Public Class Form1
     Public Sub New()
 
         Me.InitializeComponent()
-        Me.Width = 998
-        Me.Height = 537
+
 
     End Sub
 
 
+
     Sub draw()
-        Dim g As Graphics = pictureBox1.CreateGraphics
+        Dim g As Graphics = PictureBox1.CreateGraphics
         Dim p As Pen
         p = New Pen(Color.Black, 1)
 
@@ -43,6 +43,24 @@ Public Class Form1
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Button1.Visible = False
         start = True
+
+    End Sub
+
+    Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
+        Dim g As Graphics = PictureBox1.CreateGraphics
+        Dim b As SolidBrush
+        b = New SolidBrush(Color.Cyan)
+
+        Dim x As Integer = (MousePosition.X - Me.Left) / tamanho
+        If x > (MousePosition.X - Me.Left) / tamanho Then
+            x -= 1
+        End If
+
+        Dim y As Integer = (MousePosition.Y - Me.Top) / tamanho
+        If y > (MousePosition.Y - Me.Top - tamanho) / tamanho Then
+            y -= 1
+        End If
+        g.FillRectangle(b, (x * tamanho), (y * tamanho), tamanho, tamanho)
 
     End Sub
 End Class

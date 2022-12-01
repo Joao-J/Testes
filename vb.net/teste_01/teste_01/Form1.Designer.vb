@@ -33,6 +33,8 @@ Partial Class Form1
         '
         Me.PictureBox1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.PictureBox1.Location = New System.Drawing.Point(0, 0)
+        Me.PictureBox1.MaximumSize = New System.Drawing.Size(792, 573)
+        Me.PictureBox1.MinimumSize = New System.Drawing.Size(792, 573)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(792, 573)
         Me.PictureBox1.TabIndex = 0
@@ -55,9 +57,11 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(792, 573)
+        Me.ClientSize = New System.Drawing.Size(784, 546)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.PictureBox1)
+        Me.MaximumSize = New System.Drawing.Size(792, 573)
+        Me.MinimumSize = New System.Drawing.Size(792, 573)
         Me.Name = "Form1"
         Me.Text = "Form1"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
