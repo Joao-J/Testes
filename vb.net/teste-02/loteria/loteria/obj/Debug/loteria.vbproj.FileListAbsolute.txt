@@ -1,0 +1,11 @@
+c:\users\ceep\documents\visual studio 2015\Projects\loteria\loteria\bin\Debug\loteria.exe.config
+C:\Users\CEEP\documents\visual studio 2015\Projects\loteria\loteria\bin\Debug\loteria.exe
+C:\Users\CEEP\documents\visual studio 2015\Projects\loteria\loteria\bin\Debug\loteria.pdb
+C:\Users\CEEP\documents\visual studio 2015\Projects\loteria\loteria\bin\Debug\loteria.xml
+C:\Users\CEEP\documents\visual studio 2015\Projects\loteria\loteria\obj\Debug\loteria.vbprojResolveAssemblyReference.cache
+C:\Users\CEEP\documents\visual studio 2015\Projects\loteria\loteria\obj\Debug\loteria.Form1.resources
+C:\Users\CEEP\documents\visual studio 2015\Projects\loteria\loteria\obj\Debug\loteria.Resources.resources
+C:\Users\CEEP\documents\visual studio 2015\Projects\loteria\loteria\obj\Debug\loteria.vbproj.GenerateResource.Cache
+C:\Users\CEEP\documents\visual studio 2015\Projects\loteria\loteria\obj\Debug\loteria.exe
+C:\Users\CEEP\documents\visual studio 2015\Projects\loteria\loteria\obj\Debug\loteria.xml
+C:\Users\CEEP\documents\visual studio 2015\Projects\loteria\loteria\obj\Debug\loteria.pdb
