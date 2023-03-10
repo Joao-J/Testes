@@ -68,9 +68,9 @@ def useordrop(n):
 	ye = 0
 	xe = 0
 	vl = 0
-	if visao_n[0] < 3 and visao_n[0] > 0:
+	if 3 > visao_n[0] > 0:
 		xe = visao_n[1]
-	elif visao_n[0] > 2 and visao_n[0] > 0:
+	elif  2 < visao_n[0] > 0:
 		ye = visao_n[1]
 	y = (int(visao_pos[1]/30)) + ye
 	x = (int(visao_pos[0]/30)) + xe
@@ -86,7 +86,7 @@ def useordrop(n):
 	if dt + n > 10:
 		vl = 2
 
-	if n == 0 and dt >= 5 and dt <= 10:
+	if n == 0 and 10 >= dt >= 5:
 		if data()[y][x][1] == 2:
 			vl = 1
 		else:
